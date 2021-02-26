@@ -2,7 +2,7 @@
 
 > Custom Hook Form to handle Forms
 
-[![NPM](https://img.shields.io/npm/v/sam-hook-form.svg)](https://www.npmjs.com/package/@samform/sam-hook-form) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@samform/sam-hook-form.svg)](https://www.npmjs.com/package/@samform/sam-hook-form) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
