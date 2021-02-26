@@ -1,6 +1,6 @@
 {
   "name": "@samform/sam-hook-form",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Custom Hook Form to handle Forms",
   "author": "SamuelFormigheri",
   "license": "MIT",
