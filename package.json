@@ -1,10 +1,10 @@
 {
   "name": "@samform/sam-hook-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom Hook Form to handle Forms",
   "author": "SamuelFormigheri",
   "license": "MIT",
-  "repository": "SamuelFormigheri/sam-hook-form",
+  "repository": "SamuelFormigheri/@samform/sam-hook-form",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
